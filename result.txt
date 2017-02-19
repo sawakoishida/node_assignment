@@ -1,0 +1,2 @@
+new histroy : [["ccc","ddd","eee","fff"],["ggg","hij","abc"],["xxx","yyy"]]
+new current : ["xxx","yyy"]
